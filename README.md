@@ -7,7 +7,7 @@ Slides and Resources for the Observability for All! talk, given at several confe
 
 ## Slides
 
-Slides for each conference, including sample screenshots from the live demos, are available in PDF [here]().
+Slides for each conference, including sample screenshots from the live demos, are available in PDF [here](./slides).
 
 ## Example repos
 
