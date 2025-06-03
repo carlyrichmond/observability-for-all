@@ -4,7 +4,8 @@ Slides and Resources for several holistic observability talks, given at several 
 
 1. [Observability for All! @ Devoxx UK 2025](https://www.devoxx.co.uk/talk/?id=13326)
 2. [Observability-is-not-just-for-Backend! @ JNation 2025](https://jnation.pt/)
-3. [Berlin Buzzwords](https://2025.berlinbuzzwords.de/)
+3. [Holistic Observability with Synthetic Monitoring and OTel Signals](https://www.mastering-obs.de/veranstaltung-83530-se-0-holistic-observability-with-synthetic-monitoring-and-otel-signals.html)
+4. [Berlin Buzzwords](https://2025.berlinbuzzwords.de/)
 
 ## Slides
 
