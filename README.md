@@ -1,6 +1,6 @@
 # Observability for All!
 
-Slides and Resources for several holistic observability talks, given at several conferences including:
+Slides and Resources for several holistic web observability talks using OpenTelemetry, given at several conferences including:
 
 1. [Observability for All! @ Devoxx UK 2025](https://www.devoxx.co.uk/talk/?id=13326)
 2. [Observability-is-not-just-for-Backend! @ JNation 2025](https://jnation.pt/)
